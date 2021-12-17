@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>admin &#8211; Bhavik Tutorials</title>
+	<atom:link href="https://bhaviktutorials.github.io/bhaviktutorialsws/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://bhaviktutorials.github.io/bhaviktutorialsws</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 17 Dec 2021 09:29:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>https://bhaviktutorials.github.io/bhaviktutorialsws/wp-content/uploads/2021/12/cropped-for-discord-1-1-32x32.png</url>
+	<title>admin &#8211; Bhavik Tutorials</title>
+	<link>https://bhaviktutorials.github.io/bhaviktutorialsws</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Termux Commands list</title>
+		<link>https://bhaviktutorials.github.io/bhaviktutorialsws/blog/termux-commands-list/</link>
+					<comments>https://bhaviktutorials.github.io/bhaviktutorialsws/blog/termux-commands-list/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 17 Dec 2021 09:25:27 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://bhaviktutorials.github.io/bhaviktutorialsws/?p=92</guid>
+
+					<description><![CDATA[Hello Guys, in this tutorial I am are going to share with you some useful commands of Termux emulator. Almost all the termux commands are classified from the beginning to the advance level. About Termux Emulator Termux is an Android terminal emulator and Linux environment app that works directly with no rooting or setup required. &#8230;<p class="read-more"> <a class="" href="https://bhaviktutorials.github.io/bhaviktutorialsws/blog/termux-commands-list/"> <span class="screen-reader-text">Termux Commands list</span> Read More &#187;</a></p>]]></description>
+		
+					<wfw:commentRss>https://bhaviktutorials.github.io/bhaviktutorialsws/blog/termux-commands-list/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Install Kali Linux as a Portable Live USB for Pen-Testing &#038; Hacking on Any Computer!</title>
+		<link>https://bhaviktutorials.github.io/bhaviktutorialsws/blog/install-kali-linux-as-a-portable-live-usb-for-pen-testing-hacking-on-any-computer/</link>
+					<comments>https://bhaviktutorials.github.io/bhaviktutorialsws/blog/install-kali-linux-as-a-portable-live-usb-for-pen-testing-hacking-on-any-computer/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 09 Dec 2021 15:40:55 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">https://bhaviktutorials.github.io/bhaviktutorialsws/?p=36</guid>
+
+					<description><![CDATA[Kali Linux is the go-to Linux distribution for penetration testing and ethical hacking. Still, it&#8217;s not recommended for day-to-day use, such as responding to emails, playing games, or checking Facebook. That&#8217;s why it&#8217;s better to run your&#160;Kali Linux&#160;system from a bootable USB drive. The hacker-friendly Debian-based distro did receive a major update by Offensive Security &#8230;<p class="read-more"> <a class="" href="https://bhaviktutorials.github.io/bhaviktutorialsws/blog/install-kali-linux-as-a-portable-live-usb-for-pen-testing-hacking-on-any-computer/"> <span class="screen-reader-text">Install Kali Linux as a Portable Live USB for Pen-Testing &#038; Hacking on Any Computer!</span> Read More &#187;</a></p>]]></description>
+		
+					<wfw:commentRss>https://bhaviktutorials.github.io/bhaviktutorialsws/blog/install-kali-linux-as-a-portable-live-usb-for-pen-testing-hacking-on-any-computer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
